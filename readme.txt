@@ -1,6 +1,6 @@
-#Employee Leave Management System*
+#Employee Leave Management System
 
-*Installation Steps(Configuration)*
+#Installation Steps(Configuration)
 
 1. Download and Unzip the file on your local system.
 2. copy elms folder and put this file inside root directory(for xampp is htdocs,for wamp is www and for lamp is var/www/
@@ -17,7 +17,7 @@ Email id : anuj@gmail.com
 Passowrd : Test@123
 Empid : EMP10806121 (in case of password recovery)
 
-*For admin login click on the admin login then provide username and password*
+#For admin login click on the admin login then provide username and password
 
 Email id : admin
 Passowrd : Test@12345
