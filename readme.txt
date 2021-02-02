@@ -6,13 +6,12 @@
 2. copy elms folder and put this file inside root directory(for xampp is htdocs,for wamp is www and for lamp is var/www/
 3. Database Configuration
 
-Open phpmyadmin
-
+        #Open phpmyadmin#
 Create Database elms.
 Import database elms.sql(file available inside the pacakege)
-Open Your browser put inside browser “http://localhost/elms/”
- Login details for employee
-
+Open Your browser and type “http://localhost/elms/”
+ 
+        #Login details for employee#
 Email id : anuj@gmail.com
 Passowrd : Test@123
 Empid : EMP10806121 (in case of password recovery)
