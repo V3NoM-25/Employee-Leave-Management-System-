@@ -144,7 +144,7 @@ else{
                 
                 </ul>
           <div class="footer">
-                    <p class="copyright"><a href="http://phpgurukul.com/">ELMS </a>©</p>
+                    <p class="copyright"><a href="https://github.com/V3NoM-25/">ELMS </a>©</p>
                 
                 </div>
                 </div>
