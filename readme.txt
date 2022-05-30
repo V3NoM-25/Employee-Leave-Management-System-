@@ -8,7 +8,7 @@
 
 #Open phpmyadmin
 Create Database elms.
-Import database elms.sql(file available inside the pacakege)
+Import database elms.sql(file available inside the package)
 Open Your browser and type “http://localhost/elms/”
  
         #Login details for employee#
